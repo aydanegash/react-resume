@@ -9,31 +9,9 @@
     "phone": "469-288-6623",
     "linkedin":"https://www.linkedin.com/in/ayda-negash-351749140/",
     "github":"https://github.com/aydanegash",
-    "resume":"https://docs.google.com/document/d/1Vy9bc4UCuBF1yUReom5-GI3WW69WqaQYxZD1oQlRaBA/export?format=pdf",
-    "address":{
-      "street":"8618 Manchester dr.",
-      "city":"Rowlett",
-      "state":"TX",
-      "zip": "75089"
-    }
+    "resume":"https://docs.google.com/document/d/1Vy9bc4UCuBF1yUReom5-GI3WW69WqaQYxZD1oQlRaBA/export?format=pdf"
   },
   "resume":{
-    "education":[
-      {
-        "school":"SMU Full Stack Coding Bootcamp",
-        "graduated":"Jan 2021-Jul 2021"
-      },
-      {
-        "school":"Texas Woman's University",
-        "degree":"Kinesiology",
-        "graduated":"Aug 2015-Dec 2017"
-      },
-      {
-        "school":"Richland College",
-        "degree":"Science",
-        "graduated":"Jan 2014-Jun 2015"
-      }
-    ],
     "skills":[
       {
         "name":"ReactJs"
@@ -79,12 +57,12 @@
       {
         "title":"Password Generator",
         "image":"password-generator.jpg",
-        "url":"https://github.com/aydanegash/password-generator"
+        "url":"https://aydanegash.github.io/password-generator/"
       },
       {
         "title":"Coding Quiz",
         "image":"codingQuiz.jpg",
-        "url":"https://github.com/aydanegash/quiz-quiz"
+        "url":"https://aydanegash.github.io/quiz-quiz/"
       },
       {
         "title":"Note Taker",

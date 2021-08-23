@@ -10,12 +10,15 @@ class Portfolio extends Component {
     const projects = this.props.data.projects.map(function (projects) {
       let projectImage = "images/portfolio/" + projects.image;
 
+
       return (
         <div key={id++} className="columns portfolio-item">
           <div className="item-wrap">
-            <Zmage alt={projects.title} src={projectImage} />
+          <a href={projects.url}>
+          <img alt={projects.title} src={projectImage} />
+                </a> 
             <div style={{ textAlign: "center" }}>{projects.title}</div>
-          </div>
+         </div>
         </div>
       );
     });
