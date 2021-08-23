@@ -1,19 +1,19 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Ayda Negash",
+    "description":"I am a junior full-stack developer.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":" I am an Ethiopian born, Dallas native, and an enthusiatic student-of-life. I am currently a student with SMU for a full-stack web development program. The program includes, but is not limited to, html, css, javascript, jquery, node.js, and react.js. I am also a BJJ student under Professor Vinicius at Gracie Gym Richardson. Within the next 10 years, I plan on recieving my black belt in BJJ. I also dable in gardening. I intern at Dallas Master Gardner and volunteer in a variety of the beautiful gardens we have her in DFW. Prior to the SMU program, I was teaching Environmental Science and Art at a Wallas Foundation Funded research site in partnership with the non-profit Big Thought. In the coming future I hope to become a Master black-belt coding gardner." ,
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "aydanegash@gmail.com",
+    "phone": "469-288-6623",
+    "github":"https://github.com/aydanegash",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"8618 Manchester dr.",
+      "city":"Rowlett",
+      "state":"TX",
+      "zip": "75089"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -30,7 +30,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/ayda-negash-351749140/",
         "className":"fa fa-linkedin"
       },
       {
@@ -49,7 +49,7 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
+        "school":"Texas Woman's University",
         "degree":"Masters in Beer tasting",
         "graduated":"April 2017",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
@@ -109,10 +109,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Sprouts of the World",
+        "category":"Plant Management",
+        "image":"sprouts-of-the-world.jpg",
+        "url":"https://sprout-of-this-world.herokuapp.com/"
       },
       {
         "title":"Fury Fighting Gear",
