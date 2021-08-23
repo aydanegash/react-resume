@@ -1,9 +1,11 @@
 {
   "main": {
     "name":"Ayda Negash",
-    "description":"I am a junior full-stack developer.",
+    "description":"I am a junior full-stack developer",
     "image":"profilepic.jpg",
-    "bio":" I am an Ethiopian born, Dallas native, and an enthusiatic student-of-life. I am currently a student with SMU for a full-stack web development program. The program includes, but is not limited to, html, css, javascript, jquery, node.js, and react.js. I am also a BJJ student under Professor Vinicius at Gracie Gym Richardson. Within the next 10 years, I plan on recieving my black belt in BJJ. I also dable in gardening. I intern at Dallas Master Gardner and volunteer in a variety of the beautiful gardens we have her in DFW. Prior to the SMU program, I was teaching Environmental Science and Art at a Wallas Foundation Funded research site in partnership with the non-profit Big Thought. In the coming future I hope to become a Master black-belt coding gardner." ,
+    "bioQuote":"The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "bioQuotAuthor": "Nelson Mandela",
+    "bio":"This quote encapsulates my experience with coding. Through many trials and tribulations, I graduated from SMU's Full Stack Web Development Program.  I have come to love coding and all the ups and downs it entails. The mindset of expecting and accepting failure not only helped me in my coding journey, but in all aspects of life.  I happily welcome the life-long path of being a student and always learning and improving. Prior to the SMU program, I was an instructor at a Wallas Foundation Funded research site teaching Environmental Science and Art . In my spare time, I practice Brazilian Jiu Jitsu and  gardening. In the coming future I hope to become a Master black-belt coding gardener. " ,
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "aydanegash@gmail.com",
     "phone": "469-288-6623",

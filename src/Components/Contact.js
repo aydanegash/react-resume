@@ -8,8 +8,6 @@ class Contact extends Component {
     const name = this.props.data.name;
     const phone = this.props.data.phone;
     const email = this.props.data.email;
-    const github = this.props.data.github;
-    const resumeDownload = this.props.data.resume;
 
      return (
 
@@ -28,13 +26,6 @@ class Contact extends Component {
                           <span>{email}</span>
                         </p>
                   </div>
-                  <div className="columns download">
-                  <p>
-                    <a href={resumeDownload} className="button">
-                      <i className="fa fa-download"></i>Download Resume
-                    </a>
-                  </p>
-                </div>
                 </div>
               </aside>
             </Slide>
