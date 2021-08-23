@@ -11,10 +11,8 @@
    c. About Section
    d. Resume Section
    e. Portfolio Section
-   f. Call To Action Section
-   g. Testimonials Section
-   h. Contact Section
-   i. Footer
+   f. Contact Section
+   g. Footer
 
 ===================================================================== */
 
@@ -311,7 +309,7 @@ ul#nav li.current a { color: #fe6928; }
 	-o-transition: opacity 0.3s ease-in-out;
 	transition: opacity 0.3s ease-in-out;
 
-   background: url(../images/overlay-bg.png) repeat;
+   background: url(../images/ZdR1.gif) repeat;
 }
 .portfolio-item .item-wrap .link-icon {
    display: block;
