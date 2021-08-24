@@ -1,0 +1,80 @@
+{
+  "main": {
+    "name":"Ayda Negash",
+    "description":"I am a junior full-stack developer",
+    "image":"profilepic.jpg",
+    "bioQuote":"The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "bioQuotAuthor": "Nelson Mandela",
+    "bio":"This quote encapsulates my experience with coding. Through many trials and tribulations, I graduated from SMU's Full Stack Web Development Program.  I have come to love coding and all the ups and downs it entails. The mindset of expecting and accepting failure not only helped me in my coding journey, but in all aspects of life.  I happily welcome the life-long path of being a student and always learning and improving. Prior to the SMU program, I was an instructor at a Wallas Foundation Funded research site teaching Environmental Science and Art . In my spare time, I practice Brazilian Jiu Jitsu and  gardening. In the coming future I hope to become a Master black-belt coding gardener. " ,
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "aydanegash@gmail.com",
+    "phone": "469-288-6623",
+    "linkedin":"https://www.linkedin.com/in/ayda-negash-351749140/",
+    "github":"https://github.com/aydanegash",
+    "resume":"https://docs.google.com/document/d/1Vy9bc4UCuBF1yUReom5-GI3WW69WqaQYxZD1oQlRaBA/export?format=pdf"
+  },
+  "resume":{
+    "languages":[
+      {
+        "name":"ReactJs"
+      },
+      {
+        "name":"HTML"
+      },
+      {
+        "name":"CSS"
+      },
+      {
+        "name":"Javascript"
+      },
+      {
+        "name":"JQuery"
+      },
+      {
+        "name":"Node.js"
+      },
+      {
+        "name":"Express.js"
+      },
+      {
+        "name":"Materialize"
+      },
+      {
+        "name":"Bootstrap"
+      }
+    ],
+    "databases":[
+      {
+        "name":"Mysql"
+      },
+      {
+        "name":"Mongodb"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Sprouts of this World",
+        "image":"sprouts-of-this-world.jpg",
+        "url":"https://sprout-of-this-world.herokuapp.com/"
+      },
+      {
+        "title":"Got Munchies",
+        "image":"got-munchies.jpg",
+        "url":"https://jonathan-jablonski.github.io/got-munchies/"
+      },
+      {
+        "title":"Password Generator",
+        "image":"password-generator.jpg",
+        "url":"https://aydanegash.github.io/password-generator/"
+      },
+
+      {
+        "title":"Note Taker",
+        "image":"note-taker.jpg",
+        "url":"https://nameless-brook-20588.herokuapp.com/"
+      }
+    ]
+  }
+}
