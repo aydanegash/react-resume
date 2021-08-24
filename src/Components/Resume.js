@@ -17,12 +17,12 @@ class Resume extends Component {
 
     return (
       <section id="resume">
-        <Slide left duration={1300}>
+        <Slide left duration={500}>
           <div className="row skill">
-            <div className="three columns header-col">
+            <div className="two columns header-col">
               <h1><span>Technologies</span></h1>
             </div>
-            <div className="nine columns main-col">
+            <div className="twelve columns main-col">
             <ul className="skills">{skills}</ul>
             </div>
           </div>

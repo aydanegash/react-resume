@@ -20,7 +20,10 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #000000; }
+body { 
+   background: rgb(228, 216, 250); 
+
+}
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -119,7 +122,7 @@ header .scrolldown a:hover { color: #0762f9; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: rgb(228, 216, 250); }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -149,6 +152,7 @@ ul#nav li a {
 	text-decoration: none;
    text-align: left;
    color: #fff;
+   font-size: large;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -158,15 +162,18 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #fe6928; }
+ul#nav li.current a { color: rgb(16, 0, 46); }
 
+.h2-description {
+   color: rgb(16, 0, 46);
+}
 
 /* ------------------------------------------------------------------ */
 /* c. About Section
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #000524;
+   background: rgb(16, 0, 46);
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -215,9 +222,9 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
-   padding-top: 90px;
-   padding-bottom: 72px;
+   background: rgb(228, 216, 250) ;
+   padding-top: 35px;
+   padding-bottom: 35px;
    overflow: hidden;
 }
 
@@ -230,7 +237,7 @@ ul#nav li.current a { color: #fe6928; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #0762f9;
+   border-bottom: 3px solid rgb(16, 0, 46);
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -261,7 +268,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: rgb(16, 0, 46) ;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -519,9 +526,9 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
-   padding-top: 96px;
-   padding-bottom: 102px;
+   background: rgb(228, 216, 250) ;
+   padding-top: 30px;
+   padding-bottom: 10px;
    color: #979696;
 }
 #contact .section-head { margin-bottom: 42px; }
@@ -565,8 +572,8 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 footer {
-   padding-top: 48px;
-   margin-bottom: 48px;
+   padding-top: 35px;
+
    color: #747272;
    font-size: 14px;
    text-align: center;
@@ -575,31 +582,6 @@ footer {
 
 footer a, footer a:visited { color: #525252; }
 footer a:hover, footer a:focus { color: #fff; }
-
-/* copyright */
-footer .copyright {
-    margin: 0;
-    padding: 0;
- }
-footer .copyright li {
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-    line-height: 24px;
-}
-.ie footer .copyright li {
-   display: inline;
-}
-footer .copyright li:before {
-    content: "\2022";
-    padding-left: 10px;
-    padding-right: 10px;
-    color: #095153;
-}
-footer .copyright  li:first-child:before {
-    display: none;
-}
-
 
 /* Go To Top Button */
 #go-top {
@@ -636,6 +618,7 @@ footer .copyright  li:first-child:before {
 .social .btn{
    padding-left: 30px;
    padding-right: 30px; 
+   border-radius: 15%;
 }
 .social .btn i{
    margin-right: 15px;
@@ -648,4 +631,29 @@ footer .copyright  li:first-child:before {
 }
 .resume-btn{
    background-color: #34495e !important;
+}
+.circle-btn .btn:first-child{
+   margin-right: 30px;
+}
+
+.button-btn {
+	position: relative;
+	top: -24px;
+   left: 1%;
+   margin-left: -30px;
+}
+
+.button-btn i {
+   margin: 25px;
+	text-decoration: none;
+	display: inline;
+	width: 150px;
+	height: 150px;
+	background-color: #525252;
+   padding: 10px;
+   border-radius: 100%;
+   background-color: #525252 ;
+   color: #fff;
+   line-height: 150px;
+   font-size: 25px;
 }
