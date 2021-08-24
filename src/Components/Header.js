@@ -52,11 +52,11 @@ class Header extends Component {
             <Fade bottom>
               <h1 className="responsive-headline">{name}</h1>
             </Fade>
-            <Fade bottom duration={1200}>
+            <Fade bottom duration={700}>
               <h2 class="h2-description">{description}.</h2>
             </Fade>
             <hr />
-            <Fade bottom duration={2000}>
+            <Fade bottom duration={1200}>
               <ul className="social">
                 <a href={linkedin} className="button btn linkedin-btn">
                   <i className="fa fa-book"></i>Linkedin

@@ -14,7 +14,7 @@
     "resume":"https://docs.google.com/document/d/1Vy9bc4UCuBF1yUReom5-GI3WW69WqaQYxZD1oQlRaBA/export?format=pdf"
   },
   "resume":{
-    "skills":[
+    "languages":[
       {
         "name":"ReactJs"
       },
@@ -28,12 +28,6 @@
         "name":"Javascript"
       },
       {
-        "name":"Mysql"
-      },
-      {
-        "name":"Mongodb"
-      },
-      {
         "name":"JQuery"
       },
       {
@@ -41,19 +35,33 @@
       },
       {
         "name":"Express.js"
+      },
+      {
+        "name":"Materialize"
+      },
+      {
+        "name":"Bootstrap"
+      }
+    ],
+    "databases":[
+      {
+        "name":"Mysql"
+      },
+      {
+        "name":"Mongodb"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Sprouts of the World",
-        "image":"sprouts-of-the-world.jpg",
+        "title":"Sprouts of this World",
+        "image":"sprouts-of-this-world.jpg",
         "url":"https://sprout-of-this-world.herokuapp.com/"
       },
       {
         "title":"Got Munchies",
-        "image":"gotMunchies.jpg",
+        "image":"got-munchies.jpg",
         "url":"https://jonathan-jablonski.github.io/got-munchies/"
       },
       {
@@ -61,14 +69,10 @@
         "image":"password-generator.jpg",
         "url":"https://aydanegash.github.io/password-generator/"
       },
-      {
-        "title":"Coding Quiz",
-        "image":"codingQuiz.jpg",
-        "url":"https://aydanegash.github.io/quiz-quiz/"
-      },
+
       {
         "title":"Note Taker",
-        "image":"noteTaker.jpg",
+        "image":"note-taker.jpg",
         "url":"https://nameless-brook-20588.herokuapp.com/"
       }
     ]

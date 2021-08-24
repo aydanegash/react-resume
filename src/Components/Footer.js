@@ -16,7 +16,7 @@ class Footer extends Component {
       <div className="row">
         <section id="contact">
           <Fade bottom duration={1000}>
-            <Slide left duration={1000}>
+            <Slide left duration={800}>
               <aside>
                 <div className="row">
                   <div className="twelve columns contact-details">
@@ -30,7 +30,7 @@ class Footer extends Component {
                         </p>
                   </div>
                 </div>
-            <Slide left duration={1300}>
+            <Slide left duration={900}>
             <div className="twelve columns">
             <ul className="circle-btn">
                 <a href={linkedin} className="button-btn">
